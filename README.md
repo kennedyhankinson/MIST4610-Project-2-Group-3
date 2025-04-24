@@ -107,7 +107,7 @@ This project takes a look into the "Crime Incidents in 2024" out of the District
 
 
 ### 2. What shift (time of day) sees the highest rates of crime, and do these patterns vary by crime type?
-![image](https://github.com/user-attachments/assets/3ba2b9c4-3bf4-4c41-b25f-b60db445050b)
+![image](https://github.com/user-attachments/assets/34c28293-4b52-4ca7-9206-d668059e8bc6)
 
 #### Importance:
 - Knowing peak crime hours enables police to schedule patrols and allocate officers where and when they’re needed most, reducing response times and improving coverage.
