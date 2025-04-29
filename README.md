@@ -88,6 +88,8 @@ This project takes a look into the "Crime Incidents in 2024" out of the District
 ## Questions & Analysis
 ### 1. Are certain neighborhoods or wards experiencing a disproportionate amount of violent crime compared to property crime?
 ![image](https://github.com/user-attachments/assets/5bc9a902-3a71-4e86-ba80-8ce226a244ef)
+![image](https://github.com/user-attachments/assets/1abf6e95-e411-4770-ad76-d9dd7caa3f02)
+
 
 #### Importance:
 - Pinpointing areas with unusually high violent-vs-property crime ratios helps law enforcement deploy specialized units, adjust patrol hours, and invest in community programs where they’ll have the greatest impact.
