@@ -127,18 +127,3 @@ No manipulations were required to the data in order to perform our analysis.
 
 ### Tableau Packaged Workbook
 ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-yellow?style=flat-square)
-
- ng](https://img.shields.io/badge/Evening-orange?style=flat-square) shift has the highest total incidents (≈12K), followed by ![Day](https://img.shields.io/badge/Day-blue?style=flat-square) (≈10K) and ![Midnight](https://img.shields.io/badge/Midnight-red?style=flat-square) (≈8K).
-- During the **Day** and **Evening** Shift, **Theft/Other** and **Theft/Auto** dominate, indicating opportunities for a higher percentage of property crimes.
-- During the **Midnight** Shift, **Violent** offenses **(Assault, Robbery)** proportionally increase compared to property crimes, pointing to higher personal-risk incidents overnight.
-
-#### Action:
-- **Daytime** patrols should focus on **theft deterrence** (locks, being visible in the community).
-- **Evening** units should focus on **property crime** and become more **prepared for a surge in violent crimes**.
-- **Overnight** squads require specialized **violent crime training** and **rapid response capability**.
-
-### Manipulations
-No manipulations were required to the data in order to perform our analysis. 
-
-### Tableau Packaged Workbook
-![Coming Soon](https://img.shields.io/badge/Coming%20Soon-yellow?style=flat-square)
